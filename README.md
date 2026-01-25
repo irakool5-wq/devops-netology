@@ -16,3 +16,6 @@
 
 ## Fix branch update
 This line was added in the `fix` branch.
+
+## Updated via VS Code
+Изменение с помощбю редактора кода VS Code.
